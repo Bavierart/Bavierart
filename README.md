@@ -8,7 +8,7 @@
   <a href="mailto:bavierart@gmail.com">
     <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=your-username&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=bavierart&style=for-the-badge" />
 </p>
 
 ---
